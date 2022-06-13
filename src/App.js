@@ -32,7 +32,7 @@ class App extends React.Component {
   }
   render(){
     return <div className="border red">
-    {this.renderContent()}
+    {this.renderContent()  }
     </div>
   }
  
